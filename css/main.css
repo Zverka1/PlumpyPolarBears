@@ -162,10 +162,10 @@ body {
   left: 429px;
   overflow: hidden;
 }
-.v42_13 {
+.v42_12 {
   width: 238px;
   height: 238px;
-  background: url("../images/v42_13.png");
+  background: url("../images/v42_12.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -202,7 +202,7 @@ body {
   overflow: hidden;
 }
 .v42_19 {
-  width: 240px;
+  width: 127px;
   color: rgba(255,255,255,1);
   position: absolute;
   top: 1751px;
@@ -211,22 +211,22 @@ body {
   font-weight: Regular;
   font-size: 36px;
   opacity: 1;
-  text-align: center;
+  text-align: left;
 }
 .v42_18 {
-  width: 240px;
+  width: 239px;
   color: rgba(255,255,255,1);
   position: absolute;
   top: 1751px;
-  left: 513px;
+  left: 512px;
   font-family: Aldrich;
   font-weight: Regular;
   font-size: 36px;
   opacity: 1;
-  text-align: center;
+  text-align: left;
 }
 .v42_13 {
-  width: 240px;
+  width: 241px;
   color: rgba(255,255,255,1);
   position: absolute;
   top: 1751px;
@@ -235,10 +235,10 @@ body {
   font-weight: Regular;
   font-size: 36px;
   opacity: 1;
-  text-align: center;
+  text-align: left;
 }
 .v42_17 {
-  width: 240px;
+  width: 244px;
   color: rgba(171,209,198,1);
   position: absolute;
   top: 1799px;
@@ -247,10 +247,10 @@ body {
   font-weight: Regular;
   font-size: 24px;
   opacity: 1;
-  text-align: center;
+  text-align: left;
 }
 .v48_32 {
-  width: 240px;
+  width: 280px;
   color: rgba(171,209,198,1);
   position: absolute;
   top: 1800px;
@@ -259,19 +259,19 @@ body {
   font-weight: Regular;
   font-size: 24px;
   opacity: 1;
-  text-align: center;
+  text-align: left;
 }
 .v48_30 {
-  width: 240px;
+  width: 244px;
   color: rgba(171,209,198,1);
   position: absolute;
   top: 1800px;
-  left: 215px;
+  left: 212px;
   font-family: Aldrich;
   font-weight: Regular;
   font-size: 24px;
   opacity: 1;
-  text-align: center;
+  text-align: left;
 }
 .v43_23 {
   width: 476px;
@@ -286,59 +286,11 @@ body {
   left: 386px;
   overflow: hidden;
 }
-.Private {
+.v48_33 {
   width: 833px;
   color: rgba(171,209,198,1);
   position: absolute;
   top: 2132px;
-  left: 215px;
-  font-family: Aldrich;
-  font-weight: Regular;
-  font-size: 36px;
-  opacity: 1;
-  text-align: center;
-}
-.Public {
-  width: 833px;
-  color: rgba(171,209,198,1);
-  position: absolute;
-  top: 2192px;
-  left: 215px;
-  font-family: Aldrich;
-  font-weight: Regular;
-  font-size: 36px;
-  opacity: 1;
-  text-align: center;
-}
-.Art {
-  width: 833px;
-  color: rgba(171,209,198,1);
-  position: absolute;
-  top: 2252px;
-  left: 215px;
-  font-family: Aldrich;
-  font-weight: Regular;
-  font-size: 36px;
-  opacity: 1;
-  text-align: center;
-}
-.Drops {
-  width: 833px;
-  color: rgba(171,209,198,1);
-  position: absolute;
-  top: 2312px;
-  left: 215px;
-  font-family: Aldrich;
-  font-weight: Regular;
-  font-size: 36px;
-  opacity: 1;
-  text-align: center;
-}
-.Game {
-  width: 833px;
-  color: rgba(171,209,198,1);
-  position: absolute;
-  top: 2372px;
   left: 215px;
   font-family: Aldrich;
   font-weight: Regular;
@@ -551,7 +503,7 @@ body {
   overflow: hidden;
 }
 .v117_217 {
-  width: 818px;
+  width: 778px;
   height: 45px;
   background: url("../images/v117_217.png");
   background-repeat: no-repeat;
@@ -566,7 +518,7 @@ body {
   overflow: hidden;
 }
 .v117_218 {
-  width: 818px;
+  width: 778px;
   color: rgba(0,30,29,1);
   position: absolute;
   top: 8px;
@@ -594,7 +546,7 @@ body {
   overflow: hidden;
 }
 .v117_242 {
-  width: 818px;
+  width: 825px;
   height: 45px;
   background: url("../images/v117_242.png");
   background-repeat: no-repeat;
@@ -669,10 +621,10 @@ body {
   left: 982px;
   overflow: hidden;
 }
-.v132_4 {
+.v132_5 {
   width: 88px;
   height: 50px;
-  background: url("../images/v132_4.png");
+  background: url("../images/v132_5.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -933,16 +885,16 @@ body {
   opacity: 1;
   text-align: center;
 }
-.v155_16 {
+.v205_909 {
   width: 86px;
   height: 64px;
-  background: url("../images/v155_16.png");
+  background: url("../images/v205_909.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   opacity: 1;
   position: absolute;
   top: 237px;
-  left: 710px;
+  left: 706px;
   overflow: hidden;
 }
